@@ -17,5 +17,7 @@ This program utilizes HTML and CSS. The CSS is categorized using the SMACSS meth
 
 ## Credit and Collaborations
 [The Clearfix: Force an Element to Self-Clear its Children](https://css-tricks.com/snippets/css/clear-fix/)
+
 [Normalize.css stylesheet](https://github.com/necolas/normalize.css/blob/master/normalize.css)
+
 [IcoMoon Icon Packages](https://icomoon.io/)
