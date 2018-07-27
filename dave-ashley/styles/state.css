@@ -23,6 +23,10 @@
     }
 }
 
+nav:hover ul {
+    display: block;
+}
+
 /* === LINK STYLES === */
 
 a, a:link, a:active {
