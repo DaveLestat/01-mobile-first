@@ -1,4 +1,4 @@
-# Mobile First LAb
+# Mobile First Lab
 
 **Author**: Ashley Breunich & Dave Cerino
 **Version**: 1.0.0
